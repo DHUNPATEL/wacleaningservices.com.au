@@ -5,22 +5,22 @@
 
 /* ── 1. Variables & Reset ── */
 :root {
-  --primary:        #1e40af;
-  --primary-dark:   #1e3a8a;
-  --primary-hover:  #1d4ed8;
-  --secondary:      #3b82f6;
-  --accent:         #60a5fa;
-  --accent-light:   #dbeafe;
-  --accent-xlight:  #eff6ff;
+  --primary:        #0f766e;
+  --primary-dark:   #0d5f58;
+  --primary-hover:  #0e7069;
+  --secondary:      #14b8a6;
+  --accent:         #2dd4bf;
+  --accent-light:   #ccfbf1;
+  --accent-xlight:  #f0fdfb;
   --text-dark:      #0f172a;
   --text:           #374151;
   --text-light:     #6b7280;
   --bg:             #ffffff;
   --bg-alt:         #f8fafc;
   --border:         #e2e8f0;
-  --shadow-sm:      0 1px 4px rgba(30,64,175,.08);
-  --shadow:         0 4px 20px rgba(30,64,175,.12);
-  --shadow-lg:      0 8px 40px rgba(30,64,175,.16);
+  --shadow-sm:      0 1px 4px rgba(15,118,110,.08);
+  --shadow:         0 4px 20px rgba(15,118,110,.12);
+  --shadow-lg:      0 8px 40px rgba(15,118,110,.16);
   --radius:         12px;
   --radius-lg:      20px;
   --radius-pill:    999px;
